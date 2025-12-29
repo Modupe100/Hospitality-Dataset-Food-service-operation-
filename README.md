@@ -93,8 +93,6 @@ Sat	1.996763754	3.773462783
 Grand Total	2.219955654	3.937472284
 <img width="469" height="181" alt="image" src="https://github.com/user-attachments/assets/eabacc15-2b1f-4ee1-93f8-f25cfef305ba" />
 
-# Observations:
-
 Service quality peaks during weekdays (Mon–Fri ~2.29–2.32) and dips on weekends (~1.99–1.99).
 
 Customer satisfaction roughly follows the same pattern: higher during weekdays (~3.97–4.04) and lower on weekends (~3.77–3.84).
