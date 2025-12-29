@@ -104,6 +104,6 @@ Sales analysis, menu evaluation, customer behavior, service performance
 Tools: Excel, Power BI.
 Format: CSV / Excel
 
-I am open for collaboration
+I am open for collaboration.my email:modupeelizabeth0@gmail.com
 
 Author: Modupe Babalola
