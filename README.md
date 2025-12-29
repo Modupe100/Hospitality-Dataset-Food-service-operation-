@@ -1,12 +1,25 @@
 # Hospitality-Dataset-Food-service-operation-
-# This dataset contains price list and operational data from food service establishments. It is suitable for analyzing revenue trends, menu performance, customer preferences, and service quality.
+# Introduction
+This dataset contains price list and operational data from food service establishments. It is suitable for analyzing revenue trends, menu performance, customer preferences, and service quality.
 # Business Questions
 What trends exist in customer preferences across menu categories?
 How does pricing impact revenue and overall sales performance?
 Can sales and demand be accurately predicted using historical data?
 How does service quality affect customer satisfaction and operational performance?
 # Answer
-Customer Preference Trends by Menu Category
+Customer Preference Trends by Menu Category.
+Row Labels	Average of customer_id
+BBQ	  0.070063694
+Burgers	0.071197411
+Curry	0.093167702
+Pasta	0.065088757
+Pizza	0.062305296
+Salads	0.104790419
+Sushi	0.072555205
+Grand Total	0.077161863
+	
+<img width="241" height="201" alt="image" src="https://github.com/user-attachments/assets/2c64a671-c761-4549-af36-2bbe81572ef9" />
+
 
 Salads (0.1048) show the highest average customer engagement, indicating a strong preference—possibly driven by health-conscious choices or lighter meal options.
 
