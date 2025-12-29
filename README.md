@@ -9,7 +9,7 @@ How does service quality affect customer satisfaction and operational performanc
 # Answer
 Customer Preference Trends by Menu Category.
 Row Labels	Average of customer_id
-BBQ	  0.070063694
+BBQ	0.070063694
 Burgers	0.071197411
 Curry	0.093167702
 Pasta	0.065088757
@@ -17,6 +17,8 @@ Pizza	0.062305296
 Salads	0.104790419
 Sushi	0.072555205
 Grand Total	0.077161863
+<img width="241" height="181" alt="image" src="https://github.com/user-attachments/assets/418d8ce6-f5e3-4462-8299-17e21cf516e6" />
+
 Salads (0.1048) show the highest average customer engagement, indicating a strong preference—possibly driven by health-conscious choices or lighter meal options.
 
 Curry (0.0932) ranks second, suggesting steady demand for flavorful, hearty meals.
@@ -33,6 +35,8 @@ Suburban	2.638601036
 Tourist	2.612068966
 Urban	2.607048458
 Grand Total	2.618625277
+<img width="241" height="101" alt="image" src="https://github.com/user-attachments/assets/89db8cc3-6e38-4d75-9b2f-1d4ddb86de8a" />
+
 Suburban locations (2.64) have the highest average price level, suggesting customers in these areas are more willing to pay slightly higher prices, which can drive higher revenue per transaction.
 
 Tourist areas (2.61) show moderately high pricing, indicating that visitors accept premium pricing, likely supporting strong revenue during peak seasons.
@@ -51,6 +55,8 @@ Pizza	2.604361371
 Salads	2.670658683
 Sushi	2.558359621
 Grand Total	2.618625277
+<img width="241" height="181" alt="image" src="https://github.com/user-attachments/assets/9b8c3ef8-f9c9-4fc8-8967-ac054379f17b" />
+
 which is useful for understanding pricing trends.
 
 # 3.Answer
@@ -81,6 +87,8 @@ Thu	2.292358804	4
 Fri	2.286173633	3.971061093
 Sat	1.996763754	3.773462783
 Grand Total	2.219955654	3.937472284
+<img width="469" height="181" alt="image" src="https://github.com/user-attachments/assets/eabacc15-2b1f-4ee1-93f8-f25cfef305ba" />
+
 # Observations:
 
 Service quality peaks during weekdays (Mon–Fri ~2.29–2.32) and dips on weekends (~1.99–1.99).
