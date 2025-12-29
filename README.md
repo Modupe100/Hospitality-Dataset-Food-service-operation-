@@ -32,6 +32,13 @@ Pasta (0.0651) and Pizza (0.0623) have the lowest averages, indicating relativel
 The overall average (0.0772) suggests customer preference is moderately spread, with clear leaders (Salads and Curry).
 # 2.answer 
 Pricing Impact on Revenue & Sales Performance
+Row Labels	Average of price_level
+Suburban	2.638601036
+Tourist	2.612068966
+Urban	2.607048458
+Grand Total	2.618625277
+<img width="241" height="101" alt="image" src="https://github.com/user-attachments/assets/ae1a5d46-4f44-4478-8e0a-c57c1d53c7b6" />
+
 
 Suburban locations (2.64) have the highest average price level, suggesting customers in these areas are more willing to pay slightly higher prices, which can drive higher revenue per transaction.
 
@@ -42,33 +49,64 @@ Urban locations (2.61) have the lowest average price level, implying higher pric
 The overall average price level (2.62) shows pricing is fairly consistent across locations, with small variations influencing revenue more through volume than price differences.
 # 3.answer
 You have a pivot table summarizing the average price level per food category:
-
-Food Item	Average Price Level
-BBQ	2.634
-Burgers	2.663
-Curry	2.596
-Pasta	2.604
-Pizza	2.604
-Salads	2.671
-Sushi	2.558
-Grand Total	2.619
+Row Labels	Average of price_level
+BBQ	2.633757962
+Burgers	2.663430421
+Curry	2.596273292
+Pasta	2.603550296
+Pizza	2.604361371
+Salads	2.670658683
+Sushi	2.558359621
+Grand Total	2.618625277
+<img width="241" height="181" alt="image" src="https://github.com/user-attachments/assets/bee9185c-8664-4e64-8a68-d1d1d96a72f9" />
+Row Labels	Average of price_level
+BBQ	2.633757962
+Burgers	2.663430421
+Curry	2.596273292
+Pasta	2.603550296
+Pizza	2.604361371
+Salads	2.670658683
+Sushi	2.558359621
+Grand Total	2.618625277
+<img width="241" height="181" alt="image" src="https://github.com/user-attachments/assets/673ee9d8-f3b0-451b-95a5-7786d3c162ef" />
 which is useful for understanding pricing trends.
+
 # 3.Answer
-Regression Statistics Multiple R 0.028320586 R Square 0.000802056 0.08% Adjusted R Square 0.000358559 Standard Error 1.136038339 Observations 2255 ANOVA df SS MS F Significance F Regression 1 2.333996016 2.333996016 1.808481764 0.178825824 Residual 2253 2907.683742 1.290583108 Total 2254 2910.017738 Coefficients Standard Error t Stat P-value Lower 95% Upper 95% Lower 95.0% Upper 95.0% Intercept 2.609322441 0.024903303 104.7781681 0 2.560486629 2.658158253 2.560486629 2.658158253 customer_id 0.120562616 0.089651095 1.344798038 0.178825824 -0.055244747 0.29636998 -0.055244747 0.29636998.
+SUMMARY OUTPUT								
+								
+Regression Statistics								
+Multiple R	0.028320586							
+R Square	0.000802056		0.08%					
+Adjusted R Square	0.000358559							
+Standard Error	1.136038339							
+Observations	2255							
+								
+ANOVA								
+	df	SS	MS	F	Significance F			
+Regression	1	2.333996016	2.333996016	1.808481764	0.178825824			
+Residual	2253	2907.683742	1.290583108					
+Total	2254	2910.017738						
+								
+	Coefficients	Standard Error	t Stat	P-value	Lower 95%	Upper 95%	Lower 95.0%	Upper 95.0%
+Intercept	2.609322441	0.024903303	104.7781681	0	2.560486629	2.658158253	2.560486629	2.658158253
+customer_id	0.120562616	0.089651095	1.344798038	0.178825824	-0.055244747	0.29636998	-0.055244747	0.29636998
+
+<img width="1017" height="367" alt="image" src="https://github.com/user-attachments/assets/9862867d-7c0a-4c2c-854e-0855cbcf1cdc" />
 According to tthe result in regression,we can see that it is statistically significant since significance F is 0.1 which is a good model so sales is a determinant of the cuisine.
 <img width="1590" height="49" alt="image" src="https://github.com/user-attachments/assets/97e3223c-5394-4337-9a52-e523eb1c27fb" />
 #4. Answer
-Day	Avg Service Quality	Avg Overall Satisfaction
-Sun	1.987	3.841
-Mon	2.322	3.971
-Tue	2.318	4.044
-Wed	2.308	3.948
-Thu	2.292	4.000
-Fri	2.286	3.971
-Sat	1.997	3.773
-Grand Total	2.220	3.937
 
-Observations:
+Row Labels	Average of service_quality	Average of overall_satisfaction
+Sun	1.987012987	3.840909091
+Mon	2.321533923	3.970501475
+Tue	2.317784257	4.043731778
+Wed	2.308139535	3.947674419
+Thu	2.292358804	4
+Fri	2.286173633	3.971061093
+Sat	1.996763754	3.773462783
+Grand Total	2.219955654	3.937472284
+<img width="469" height="181" alt="image" src="https://github.com/user-attachments/assets/7fcec29f-ffde-40e3-a817-7bd5ab54efb6" />
+# Observations:
 
 Service quality peaks during weekdays (Mon–Fri ~2.29–2.32) and dips on weekends (~1.99–1.99).
 
@@ -76,10 +114,8 @@ Customer satisfaction roughly follows the same pattern: higher during weekdays (
 
 This suggests a positive relationship: when service quality improves, customer satisfaction also tends to increase.
 
-
-
-
-# Use cases: Sales analysis, menu evaluation, customer behavior, service performance
+# Use cases: 
+Sales analysis, menu evaluation, customer behavior, service performance
 Tools: Excel, Power BI.
 Format: CSV / Excel
 
