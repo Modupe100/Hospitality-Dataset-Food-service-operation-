@@ -60,7 +60,6 @@ The overall average price level (2.62) shows pricing is fairly consistent across
 
 # 3a.answer
 You have a pivot table summarizing the average price level per food category:
-
 Row Labels	Average of price_level
 BBQ	2.633757962
 Burgers	2.663430421
