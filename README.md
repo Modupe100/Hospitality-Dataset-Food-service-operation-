@@ -39,13 +39,16 @@ Pasta (0.0651) and Pizza (0.0623) have the lowest averages, indicating relativel
 The overall average (0.0772) suggests customer preference is moderately spread, with clear leaders (Salads and Curry).
 
 # 2.answer 
+
 Pricing Impact on Revenue & Sales Performance
+
 Row Labels	Average of price_level
 Suburban	2.638601036
 Tourist	2.612068966
 Urban	2.607048458
 Grand Total	2.618625277
 <img width="241" height="101" alt="image" src="https://github.com/user-attachments/assets/89db8cc3-6e38-4d75-9b2f-1d4ddb86de8a" />
+
 
 Suburban locations (2.64) have the highest average price level, suggesting customers in these areas are more willing to pay slightly higher prices, which can drive higher revenue per transaction.
 
@@ -57,6 +60,7 @@ The overall average price level (2.62) shows pricing is fairly consistent across
 
 # 3a.answer
 You have a pivot table summarizing the average price level per food category:
+
 Row Labels	Average of price_level
 BBQ	2.633757962
 Burgers	2.663430421
@@ -112,10 +116,11 @@ Customer satisfaction roughly follows the same pattern: higher during weekdays (
 This suggests a positive relationship: when service quality improves, customer satisfaction also tends to increase.
 
 # Use cases: 
+
 Sales analysis, menu evaluation, customer behavior, service performance
 Tools: Excel, Power BI.
 Format: CSV / Excel
 
-I am open for collaboration.my email:modupeelizabeth0@gmail.com
+I am open for collaboration on data analysis,visualization related project.you can reach me via my email:modupeelizabeth0@gmail.com
 
-Author: Modupe Babalola
+
