@@ -1,4 +1,5 @@
 # Hospitality-Dataset-Food-service-operation-
+
 <img width="256" height="234" alt="Image" src="https://github.com/user-attachments/assets/f9aae5c9-3ff9-4703-99ee-12b830489c9b" />
 
 # Introduction
@@ -6,9 +7,13 @@ This dataset contains price list and operational data from food service establis
 
 # Business Questions
 What trends exist in customer preferences across menu categories?
+
 How does pricing impact revenue and overall sales performance?
+
 Can sales and demand be accurately predicted using historical data?
+
 How does service quality affect customer satisfaction and operational performance?
+
 # Answer
 Customer Preference Trends by Menu Category.
 Row Labels	Average of customer_id
@@ -20,6 +25,7 @@ Pizza	0.062305296
 Salads	0.104790419
 Sushi	0.072555205
 Grand Total	0.077161863
+
 <img width="241" height="181" alt="image" src="https://github.com/user-attachments/assets/418d8ce6-f5e3-4462-8299-17e21cf516e6" />
 
 Salads (0.1048) show the highest average customer engagement, indicating a strong preference—possibly driven by health-conscious choices or lighter meal options.
@@ -31,6 +37,7 @@ Sushi (0.0726), Burgers (0.0712), and BBQ (0.0701) fall in the mid-range, showin
 Pasta (0.0651) and Pizza (0.0623) have the lowest averages, indicating relatively lower preference compared to other categories.
 
 The overall average (0.0772) suggests customer preference is moderately spread, with clear leaders (Salads and Curry).
+
 # 2.answer 
 Pricing Impact on Revenue & Sales Performance
 Row Labels	Average of price_level
@@ -47,7 +54,8 @@ Tourist areas (2.61) show moderately high pricing, indicating that visitors acce
 Urban locations (2.61) have the lowest average price level, implying higher price sensitivity and stronger competition, which may lead to higher sales volume but lower margins.
 
 The overall average price level (2.62) shows pricing is fairly consistent across locations, with small variations influencing revenue more through volume than price differences.
-# 3.answer
+
+# 3a.answer
 You have a pivot table summarizing the average price level per food category:
 Row Labels	Average of price_level
 BBQ	2.633757962
@@ -62,7 +70,7 @@ Grand Total	2.618625277
 
 which is useful for understanding pricing trends.
 
-# 3.Answer
+# 3b.Answer
 SUMMARY OUTPUT								
 								
 Regression Statistics								
@@ -84,6 +92,7 @@ customer_id	0.120562616	0.089651095	1.344798038	0.178825824	-0.055244747	0.29636
 <img width="1017" height="367" alt="image" src="https://github.com/user-attachments/assets/d9298470-c281-4380-ae01-801420792225" />
 According to tthe result in regression,we can see that it is statistically significant since significance F is 0.1 which is a good model so sales is a determinant of the cuisine.
 <img width="1590" height="49" alt="image" src="https://github.com/user-attachments/assets/97e3223c-5394-4337-9a52-e523eb1c27fb" />
+
 #4. Answer
 Row Labels	Average of service_quality	Average of overall_satisfaction
 Sun	1.987012987	3.840909091
