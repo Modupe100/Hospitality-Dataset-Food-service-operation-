@@ -3,6 +3,7 @@
 
 # Introduction
 This dataset contains price list and operational data from food service establishments. It is suitable for analyzing revenue trends, menu performance, customer preferences, and service quality.
+
 # Business Questions
 What trends exist in customer preferences across menu categories?
 How does pricing impact revenue and overall sales performance?
