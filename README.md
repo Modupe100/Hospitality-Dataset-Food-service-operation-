@@ -69,6 +69,7 @@ Pizza	2.604361371
 Salads	2.670658683
 Sushi	2.558359621
 Grand Total	2.618625277
+
 <img width="241" height="181" alt="image" src="https://github.com/user-attachments/assets/9b8c3ef8-f9c9-4fc8-8967-ac054379f17b" />
 
 which is useful for understanding pricing trends.
