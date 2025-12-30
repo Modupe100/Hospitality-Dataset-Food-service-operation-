@@ -47,6 +47,7 @@ Suburban	2.638601036
 Tourist	2.612068966
 Urban	2.607048458
 Grand Total	2.618625277
+
 <img width="241" height="101" alt="image" src="https://github.com/user-attachments/assets/89db8cc3-6e38-4d75-9b2f-1d4ddb86de8a" />
 
 
