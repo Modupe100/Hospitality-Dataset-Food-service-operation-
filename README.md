@@ -92,11 +92,14 @@ Total	2254	2910.017738
 	Coefficients	Standard Error	t Stat	P-value	Lower 95%	Upper 95%	Lower 95.0%	Upper 95.0%
 Intercept	2.609322441	0.024903303	104.7781681	0	2.560486629	2.658158253	2.560486629	2.658158253
 customer_id	0.120562616	0.089651095	1.344798038	0.178825824	-0.055244747	0.29636998	-0.055244747	0.29636998
-<img width="1017" height="367" alt="image" src="https://github.com/user-attachments/assets/d9298470-c281-4380-ae01-801420792225" />
+<img width="1017" height="367" alt="image" src="https://github.com/user-attachments/assets/d9298470-c281-4380-ae01-801420792225" /
+
 According to tthe result in regression,we can see that it is statistically significant since significance F is 0.1 which is a good model so sales is a determinant of the cuisine.
+
 <img width="1590" height="49" alt="image" src="https://github.com/user-attachments/assets/97e3223c-5394-4337-9a52-e523eb1c27fb" />
 
-#4. Answer
+# 4. Answer
+
 Row Labels	Average of service_quality	Average of overall_satisfaction
 Sun	1.987012987	3.840909091
 Mon	2.321533923	3.970501475
@@ -106,6 +109,7 @@ Thu	2.292358804	4
 Fri	2.286173633	3.971061093
 Sat	1.996763754	3.773462783
 Grand Total	2.219955654	3.937472284
+
 <img width="469" height="181" alt="image" src="https://github.com/user-attachments/assets/eabacc15-2b1f-4ee1-93f8-f25cfef305ba" />
 
 Service quality peaks during weekdays (Mon–Fri ~2.29–2.32) and dips on weekends (~1.99–1.99).
