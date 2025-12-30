@@ -1,4 +1,5 @@
 # Hospitality-Dataset-Food-service-operation-
+<img width="256" height="234" alt="Image" src="https://github.com/user-attachments/assets/f9aae5c9-3ff9-4703-99ee-12b830489c9b" />
 # Introduction
 This dataset contains price list and operational data from food service establishments. It is suitable for analyzing revenue trends, menu performance, customer preferences, and service quality.
 # Business Questions
